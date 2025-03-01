@@ -3,3 +3,9 @@ body {
   padding: 0;
   box-sizing: border-box;
 }
+h1 {
+  color: burlywood;
+}
+p {
+  color: #1b1b1b;
+}
