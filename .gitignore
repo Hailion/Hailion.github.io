@@ -1,5 +1,39 @@
-# ignore ALL .log files
+# Ignore all log files
 *.log
 
-# ignore ALL files in ANY directory named temp
-temp/
+# Ignore specific files
+secrets.txt
+config.local.json
+
+# Ignore all files in a directory
+build/
+dist/
+node_modules/
+
+# Ignore specific file types in a directory
+*.tmp
+*.bak
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE-specific files
+.idea/
+.vscode/
+*.swp
+
+# Ignore npm debug logs
+npm-debug.log*
+
+# Ignore Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore environment files
+.env
+.venv
+venv/
+env/
