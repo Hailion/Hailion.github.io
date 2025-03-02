@@ -1,6 +1,7 @@
-## Bini Tutor 
-
+## Bini Tutor
 
 First release of binitutor project in gitHub
 
-Third updated commit of the radme.md  
+Third updated commit of the radme.md
+
+this message was added from the local repo
